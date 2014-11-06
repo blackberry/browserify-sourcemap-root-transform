@@ -1,7 +1,7 @@
 {
   "name": "browserify-sourcemap-root-transform",
   "description": "Browserify plugin to replace the basedir in sourcemap paths in the output bundle",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": {
     "name": "BlackBerry Limited",
     "email": "npmjs@blackberry.com",
@@ -11,6 +11,10 @@
     "name": "Isaac Gordezky",
     "email": "igordezky@blackberry.com"
   }],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blackberry/browserify-sourcemap-root-transform.git"
+  },
   "license": "Apache Version 2.0",
   "peerDependencies": {
     "browserify": "^5.9.11",
